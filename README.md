@@ -1,16 +1,74 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Arda%20Kaan%20%C3%96zsoy&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Jr.%20Kotlin%20Developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-<!--
-**Yarasarda/Yarasarda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Yarasarda">
+    <img src="https://komarev.com/ghpvc/?username=Yarasarda&label=Profile%20views&color=00FFFF&style=flat-square" alt="Yarasarda's profile views" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" alt="Banner" width="100%" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 About Me
+- 🔭 I’m currently working on ChainSense
+- 🌱 I’m currently learning Jetpack Compose
+- 👨‍💻My CV is available at [https://rxresu.me/yarasarda/2026subat](https://rxresu.me/yarasarda/2026subat)
+- 📫 How to reach me ozkateca@gmail.com
+- ⚡ Fun fact, I am maker and graffiti artist
+
+
+## 🧠 My Focus Areas
+- 📱 Android Development
+- 🤖 Wearable Technology
+- 🥤 3D Printing
+
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/Yarasarda">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yarasarda&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10" alt="Yarasarda's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=Yarasarda&theme=github_dark&hide_border=true&cache_seconds=86400" alt="Yarasarda's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=Yarasarda&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Arda Kaan Özsoy's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Yarasarda&theme=github_dark&radius=10" alt="Yarasarda's Activity Graph" />
+</p>
+<div align="center">
+  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+</div>
+
+
+## 🛠️ Languages & Tools
+
+> ## Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Frontend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /></p>
+
+<p align="center">
+  <a href="https://github.com/Yarasarda">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yarasarda&langs_count=8&layout=compact&theme=github_dark&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+## 🔗 Connect with Me
+<p align="left"> <a href="https://www.linkedin.com/in/yarasa/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Arda Kaan Özsoy's LinkedIn"/></a> <a href="https://x.com/Yarasaderler" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=FF00FF" alt="Arda Kaan Özsoy's Twitter"/></a> <a href="https://www.youtube.com/@yarasarda" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&color=FF00FF" alt="Arda Kaan Özsoy's YouTube"/></a> <a href="mailto:ozkateca@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Arda Kaan Özsoy's Email"/></a></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
+<p align="center"><a href="https://www.buymeacoffee.com/yarasarda" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+</div>
+
