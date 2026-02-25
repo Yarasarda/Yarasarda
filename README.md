@@ -82,12 +82,22 @@
 </p>
 
 ## 🔗 Connect with Me
-<p align="left"> 
-  <a href="https://www.linkedin.com/in/yarasa/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Arda Kaan Özsoy's LinkedIn"/></a> 
-  <a href="https://x.com/Yarasaderler" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=FF00FF" alt="Arda Kaan Özsoy's Twitter"/></a> 
-  <a href="https://www.instagram.com/ardakaan.yrs" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&color=E4405F" alt="Arda Kaan Özsoy's Instagram"/></a>
-  <a href="https://www.youtube.com/@yarasarda" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&color=FF00FF" alt="Arda Kaan Özsoy's YouTube"/></a> 
-  <a href="mailto:ozkateca@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Arda Kaan Özsoy's Email"/></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/yarasa/" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/>
+  </a> 
+  <a href="https://x.com/Yarasaderler" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40" style="margin: 0 8px;"/>
+  </a> 
+  <a href="https://www.instagram.com/ardakaan.yrs" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg" alt="Instagram" width="40" height="40" style="margin: 0 8px;"/>
+  </a>
+  <a href="https://www.youtube.com/@yarasarda" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Youtube.svg" alt="Youtube" width="40" height="40" style="margin: 0 8px;"/>
+  </a> 
+  <a href="mailto:ozkateca@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/>
+  </a>
 </p>
 
 <picture>
