@@ -9,7 +9,7 @@
 ## 📌 About Me
 - 🔭 I’m currently working on **ChainSense**
 - 🌱 I’m currently learning **Jetpack Compose**
-- 👨‍💻 My CV is available at [https://rxresu.me/yarasarda/2026eylul](https://rxresu.me/yarasarda/2026eylul)
+- 👨‍💻 My CV is available at [https://rx.cv/yarasarda/2026kasim](https://rx.cv/yarasarda/2026kasim)
 - 📫 How to reach me: **ozkateca@gmail.com**
 - ⚡ Fun fact: **I am a maker and graffiti artist**
 
